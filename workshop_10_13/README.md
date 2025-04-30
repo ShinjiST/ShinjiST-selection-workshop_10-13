@@ -136,7 +136,7 @@
 
 #### Виконане завдання
 <p align="center">
-  <img src="images/SC8.png" height="450px">
+  <img src="images/SC9.png" height="450px">
 </p>
 
 ---
@@ -147,7 +147,7 @@
 
 #### Виконане завдання
 <p align="center">
-  <img src="images/SC9.png" height="450px">
+  <img src="images/SC1.png" height="450px">
 </p>
 
 
