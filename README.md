@@ -1,1 +1,4 @@
-# ShinjiST-selection-workshop_10-13
+# Практичне заняття  
+## “Робота з опрацюванням кольорів у Adobe Color.”  
+
+В `README.md` у папці `workshop_10-13/` розміщено звіт.
