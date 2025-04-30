@@ -177,7 +177,7 @@
 <p align="center">
   <img src="images/SC12.png" height="450px">
 </p>
----
+
 
 ### 4. Accessibility Tools
 
